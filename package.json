@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "*"
+    "express": "*",
+    "three": "^0.97.0"
   },
   "author": "Linda Wang",
   "license": "MIT"
