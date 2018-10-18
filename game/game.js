@@ -1,3 +1,4 @@
+//using three.js library to create a 3D cube
 var camera, scene, renderer;
 var geometry, material, mesh;
 
